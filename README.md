@@ -82,6 +82,8 @@ The S stands for stack, and Spark entries of type S address the actual stack con
 
 #### P: Productization
 
+Everything that is created is created for a purpose and is intended to have some effect on those perceive or use it. The P, which stands for productization, is the subset of spark entries that answer questions about the image that the project is meant to have. The shape that it expresses to the world and or the effect and appearance that it should have on the public and those who see it. The P entries should also answer exactly who it is who will observe this in production and how they are meant to feel about it. Like with every other type of spark entity, the question answer pairs need not only pertain to the desired production shape, but also may pertain to what should not be the shape and what sentiments and impressions should the product or project not leave on those who observe it. Furthermore, it should answer questions about who it is that this project will be marketed to. Who is it that will be told about this project? Who is it that cares about this project and will be judging something based on this project and its quality? And also, how is it that this project will be judged and perceived?
+
 How is this packaged, branded, presented and shipped? Why, when, who, where <all of those things>?
 
 #### A: Art and design
