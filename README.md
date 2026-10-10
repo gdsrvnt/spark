@@ -45,6 +45,8 @@ Reason number one. Most excitingly, Spark presents a new way to scale the perfor
 
 Spark unlocks the capacity to build the moats and out-competes rivals along an axis that has hitherto been unharnessed.
 
+In most industries, current state, the root of many organizations is already maximized or at the very least close to the maximum value that it should responsibly have because at the end of the day, organizations are limited now, not by what's creatable and generatable and predictable, but as a matter of fact, by what is reviewable.
+
 ## How Spark works
 
 By grouping context into categories and question answer pairs, it makes it easier for the agent to determine what matters. Spark is highly opinionated about what it is that matters. It also makes it easier for the agent to elicit such things from the user.
