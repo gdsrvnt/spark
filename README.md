@@ -88,6 +88,8 @@ How is this packaged, branded, presented and shipped? Why, when, who, where <all
 
 #### A: Art and design
 
+This section, or rather, this type of entry is of course closely related to type Indeed, type A is the means by which the type P entries are achieved, and thus P informs A, and A necessarily has consequences for P. Because this is the type of entry most heavily influenced by taste of the team and nature of the project, it is also the one whose conventions are least strict, if it can be said that any of the entry types have conventions at all.
+
 Facts about the sensory footprint of the project.
 
 #### R: Risks and rumblings
