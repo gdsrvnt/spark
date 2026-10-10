@@ -96,11 +96,7 @@ What exactly to include in A is not advised upon herein at all.
 
 Facts about the sensory footprint of the project.
 
-#### R: Risks and rumblings
-
-In an ever-changing world, every project is at some risk.
-
-R is questions pertaining to how the ever-changingness of the world has implications on the project. If, for example, I was working on an open source version of TypeSafe AI's Jev model, then something appropriate to put in this field would be some notes about what other competitors are doing. But it's also a good place to put questions about changes and developments in the domain of the project that might have some implication on the project lifecycle.
+#### R: Risks and restrictions
 
 #### K: Knowledge sources
 
