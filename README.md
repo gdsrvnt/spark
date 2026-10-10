@@ -2,6 +2,10 @@
 
 > Spark is a way of engineering the context of a project or a repository in such a fashion that makes the information have three things that current approaches to context management don't have.
 
+## How to use Spark
+
+Ideally, in a given directory, the sparks .json, the sparks file should hold question answer pairs that pertain to stack questions in that particular directory.
+
 ## Background
 
 The point of Spark is to improve context engineering in three ways that no existing paradigm achieves.
@@ -73,7 +77,7 @@ A sparks.json includes any number of entries, json objects with a type of "s", "
 
 #### S: Stack
 
-The S stands for stack, and Spark entries of type S address the actual stack constituents, the tooling, the dependencies, the build pipelines, the production infrastructure, and other things pertaining to the plumbing and the nuts and bolts of the project itself; they answer architecture questions too. They're question answer pairs relating to the stack of the project. Ideally, in a given directory, the sparks .json, the sparks file should hold question answer pairs that pertain to stack questions in that particular directory. Again, optional.
+The S stands for stack, and Spark entries of type S address the actual stack constituents, the tooling, the dependencies, the build pipelines, the production infrastructure, and other things pertaining to the plumbing and the nuts and bolts of the project itself; they answer architecture questions too. They're question answer pairs relating to the stack of the project. Again, optional.
 
 
 #### P: Productization
