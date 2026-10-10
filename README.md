@@ -90,6 +90,10 @@ How is this packaged, branded, presented and shipped? Why, when, who, where <all
 
 This section, or rather, this type of entry is of course closely related to type Indeed, type A is the means by which the type P entries are achieved, and thus P informs A, and A necessarily has consequences for P. Because this is the type of entry most heavily influenced by taste of the team and nature of the project, it is also the one whose conventions are least strict, if it can be said that any of the entry types have conventions at all.
 
+In a sound engineering project, for example, the type A entries will include a lot of information about the desired vibe of the sound or beats that the project is producing. If, for example, it is a AI generation, AI generated music project that uses Suno, then things like the preferred BPMs for certain types of music may be encoded here, in addition to what types of instruments should and should not be used. On the other hand, if the project pertains to the backend of a big data pipeline, then there likely would not be very much to the A section at all. However, that is not to say that such a project would have no entries in A. It is simply to say that the entries in A are to be shaped by whatever it is the team or practitioner perceives as art in the first place. And since the very definition of art is subjective, whereas in other contexts the definition of a thing is not subjective, but what actually constitutes such a thing is subjective.
+
+What exactly to include in A is not advised upon herein at all.
+
 Facts about the sensory footprint of the project.
 
 #### R: Risks and rumblings
