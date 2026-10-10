@@ -104,9 +104,9 @@ This type of entry addresses the hard do not dos of a project, and in addition, 
 
 K is the last one. And K is one of the most powerful types of SPARK entry. K is knowledge sources. It doesn't just enumerate knowledge sources and leave the agent to do with them what it will. No. K is very useful because it allows a knowledge source to be assigned more than one job, but for that to be done very gracefully and depending on the question and the QA pair that holds a knowledge source. The agent will know how to query a particular knowledge source for a particular task at that particular moment in time. It will increase the accuracy of when agents pull context from non-SPARK sources, and it will also improve how agents query those sources once they get to them, which is way better than using index files, which most context management systems rely on right now.
 
-### Five or six types of data
+### Five types of data
 
-Spark also helps to keep a project on the rails because it unironically does encompass the five things that are most important about project management. It's five types or six types of data at large that together make up pretty much all the domains of data that a project needs to have.
+Spark also helps to keep a project on the rails because it unironically does encompass the five things that are most important about project management. It's five types of data at large that together make up pretty much all the domains of data that a project needs to have.
 
 ## Install
 
