@@ -98,6 +98,8 @@ Facts about the sensory footprint of the project.
 
 #### R: Risks and restrictions
 
+This type of entry addresses the hard do not dos of a project, and in addition, it includes admonitions about what to be weary of of the project. What to be weary of when working on the project that cannot be documented as a hard rule as such because there is no substrate for it to prohibit, but rather just things that should be avoided or certain patterns that are not desirable, or clear question answers about what is not or what things are not or what should not come to be.
+
 #### K: Knowledge sources
 
 K is the last one. And K is one of the most powerful types of SPARK entry. K is knowledge sources. It doesn't just enumerate knowledge sources and leave the agent to do with them what it will. No. K is very useful because it allows a knowledge source to be assigned more than one job, but for that to be done very gracefully and depending on the question and the QA pair that holds a knowledge source. The agent will know how to query a particular knowledge source for a particular task at that particular moment in time. It will increase the accuracy of when agents pull context from non-SPARK sources, and it will also improve how agents query those sources once they get to them, which is way better than using index files, which most context management systems rely on right now.
