@@ -106,7 +106,7 @@ K is the last one. And K is one of the most powerful types of SPARK entry. K is 
 
 ### Five or six types of data
 
-Spark also helps to keep a project on the rails because it unironically does encompass the six things that are most important about project management. It's five types or six types of data at large that together make up pretty much all the domains of data that a project needs to have.
+Spark also helps to keep a project on the rails because it unironically does encompass the five things that are most important about project management. It's five types or six types of data at large that together make up pretty much all the domains of data that a project needs to have.
 
 ## Install
 
