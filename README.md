@@ -47,6 +47,14 @@ Spark unlocks the capacity to build the moats and out-competes rivals along an a
 
 In most industries, current state, the root of many organizations is already maximized or at the very least close to the maximum value that it should responsibly have because at the end of the day, organizations are limited now, not by what's creatable and generatable and predictable, but as a matter of fact, by what is reviewable.
 
+And so, one of the axes that organizations and teams that have levered is number one, how good material is before it gets to the review stage in the first place, since it reduces the length of the review phase and thereby increases productive throughput, but they are also limited by the way that the rate at which such output can be generated.
+
+Furthermore, many teams rely on rigid, albeit effective, frameworks like to ensure that even at volume, agents produce desirable results with minimal human review. However, not unlike the problem with LLMs themselves, this results in a flattening or sanding down of the extremities where personality, brand, character, creativity, and originality arise.
+
+Furthermore, in an age where the vast majority of content, copy, and code is agent-generated, the premium on human-generated content will only get higher and higher, and indeed, it may be at a century high right now, and perhaps at the highest high since more than 90% of the population could read.
+
+And so, teams and organizations, they have a vested interest in improving not only the quality of their human output, as this is a strong moat, but indeed the throughput and retention of that human output as well, but if human output is to be retained, and verbatim human-generated text is to be retained, then it is in the vested interest of the very same teams that this human content be produced at the highest rate and the highest quality possible.
+
 ## How Spark works
 
 By grouping context into categories and question answer pairs, it makes it easier for the agent to determine what matters. Spark is highly opinionated about what it is that matters. It also makes it easier for the agent to elicit such things from the user.
